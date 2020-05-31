@@ -1,0 +1,5 @@
+<application>
+  <component name="DateTimeFormatter">
+    <option name="dateFormatPattern" value="yyyy-MMM-dd HH:mm:ss:S" />
+  </component>
+</application>
